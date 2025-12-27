@@ -21,8 +21,7 @@ Columns: Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quant
 retail-sales-sql-analysis/
 │
 ├── schema.sql # Database and table creation
-├── basic_queries.sql # Preview dataset and basic counts
-├── data_quality_checks.sql # Check for missing values
+├── data_quality_checks.sql # Preview dataset, basic counts, and checks for missing values
 ├── sales_analysis.sql # Revenue and product analysis
 ├── customer_analysis.sql # Customer demographics and behavior
 ├── time_analysis.sql # Monthly/temporal sales trends
